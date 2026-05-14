@@ -16,7 +16,14 @@ The number of cars of each type is limited, and the system prevents conflicting 
 ---
 
 ## How to run tests
-mvn test 
+mvn test
+
+---
+
+## Technologies Used
+- Java 21
+- Maven
+- JUnit 5
 
 ---
 
